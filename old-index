@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Guert Shirts, Guert Design, Guert Films, Guert Portfolio, Guert Tunes, percussion, dciquads">
+	<meta name="keywords" content="GUERT, guert, Brandon Guertner, web design, web production, graphic design, motion design, cardano, cnft, nft, nfts, crypto, dogecoin, shitposting">
+	<meta name="author" content="http://www.guert.com">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+<link rel="icon" type="image/gif" href="assets/images/netscape1.gif" />
+
+
+    <title>GUERT</title>
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+
+    <link rel="stylesheet" href="assets/css/templatemo-lava.css">
+
+    <link rel="stylesheet" href="assets/css/owl-carousel.css">
+
+</head>
+
+<body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <!-- ***** Preloader End ***** -->
+
+
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!-- ***** Logo Start ***** -->
+                        <a href="index.html" class="logo">
+                            <img src="assets/images/guert-logo-alt.jpg" alt="GUERT" style="max-width:60px;">
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li class="scroll-to-section"><a href="#welcome" class="menu-item">Home</a></li><li class="scroll-to-section"><a href="#about-guert" class="menu-item">ABOUT</a></li>
+                            <li class="scroll-to-section"><a href="#web" class="menu-item">WEB</a></li>
+                            <li class="scroll-to-section"><a href="#promotion" class="menu-item">GRAPHICS</a></li>
+                            <li class="scroll-to-section"><a href="#sound" class="menu-item">SOUND</a></li>
+                        </ul>
+                        <a class="menu-trigger">
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+
+
+    <!-- ***** Welcome Area Start ***** -->
+    <div class="welcome-area" id="welcome">
+
+        <!-- ***** Header Text Start ***** -->
+        <div class="header-text">
+            <div class="container">
+                <div class="row">
+                    <div class="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12"
+                        data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                        <h1>WEB, GRAPHIC, &amp; SOUND <em>DESIGN</em></h1>
+                        <p style="color:#ffffff;">Building experiences with design since Netscape, Guert knows the history, and understands what's coming.</p> 
+                        <a href="#about-guert" class="main-button-slider">ABOUT</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Header Text End ***** -->
+    </div>
+    <!-- ***** Welcome Area End ***** -->
+
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section" id="web">
+        <div class="center-heading" style="padding-top:100px;"><h2><em>Web Design</em> &amp; Production</h2></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <img src="assets/images/features-icon-1.png" alt="">
+                            <h4>Adobe XD Learn Hub</h4>
+                            <p style="color:#ffffff;">AEM authoring &amp; pixel-perfect experiences for the <a href="https://www.behance.net/gallery/115741115/Adobe-XD-Learn-Hub">XD Learn Hub.</a></p>
+ <a href="https://www.behance.net/gallery/115741115/Adobe-XD-Learn-Hub"><button type="button" class="main-button" href="https://www.behance.net/gallery/115741115/Adobe-XD-Learn-Hub">MORE DETAIL</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter bottom move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <img src="assets/images/features-icon-2.png" alt="">
+                            <h4>Adobe Acrobat DC
+</h4>
+                            <p style="color:#ffffff;">Adobe Acrobat - Sign Enterprise  <a href="https://www.behance.net/gallery/114408583/Adobe-Acrobat-Sign-Enterprise-Free-Trial-Global">Free Trial Global pricing pages</a>.</p>
+                           <a href="https://www.behance.net/gallery/114408583/Adobe-Acrobat-Sign-Enterprise-Free-Trial-Global"><button type="button" class="main-button" href="https://www.behance.net/gallery/114408583/Adobe-Acrobat-Sign-Enterprise-Free-Trial-Global">MORE DETAIL</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                    data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                    <div class="features-item">
+                        <div class="features-icon">
+                            <img src="assets/images/features-icon-3.png" alt="">
+                            <h4>Intuit Quickbooks</h4>
+                            <p style="color:#ffffff;">QuickBooks Self Employed - <a href="https://www.behance.net/gallery/30842197/QuickBooks-Self-Employed-Responsive-Conversion">Responsive design conversion</a></p>                          
+<a href="https://www.behance.net/gallery/30842197/QuickBooks-Self-Employed-Responsive-Conversion"><button type="button" class="main-button" href="https://www.behance.net/gallery/30842197/QuickBooks-Self-Employed-Responsive-Conversion">MORE DETAIL</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+    
+    
+
+    <div class="left-image-decor"></div>
+    
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section" id="promotion">
+         <div class="center-heading" style="padding-top:100px;"><h2><em>Graphic</em> Design</h2></div>
+        <div class="container">
+            <div class="row">
+                <div class="left-image col-lg-5 col-md-12 col-sm-12 mobile-bottom-fix-big"
+                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+                <div class="right-text offset-lg-1 col-lg-6 col-md-12 col-sm-12 mobile-bottom-fix">
+                    <ul>
+                        <li data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                            <img src="assets/images/about-icon-01.png" alt="Shitposting">
+                            <div class="text">
+                                <h4>Facebook - Global Security</h4>
+                                <p style="color:#ffffff;">I was part of an amazing <a href="https://www.behance.net/gallery/77456213/Facebook-Global-Security-Paws-on-Patrol" target="_blank">Communications design</a> team that created a consistent tone of voice for efficient internal communications &amp; dogs.</p>
+                            </div>
+                        </li>
+                        <li data-scroll-reveal="enter right move 30px over 0.6s after 0.5s">
+                            <img src="assets/images/about-icon-02.png" alt="Adobe XD">
+                            <div class="text">
+                                <h4>Animating with Adobe XD</h4>
+                                <p style="color:#ffffff;">Adobe XD is amazing for UI prototyping, but did you know you can also use it for <a href="https://www.behance.net/gallery/81111019/Adobe-XD-ANIMATE" target="_blank">smooth animations</a>?</p>
+                            </div>
+                        </li>
+                        <li data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
+                            <img src="assets/images/about-icon-03.png" alt="Squatch">
+                            <div class="text">
+                                <h4>Squatch - Best selling T-shirt!</h4>
+                                <p style="color:#ffffff;">A best-selling <a href="https://www.zazzle.com/i_believe_theres_a_squatch_in_these_woods_t_shirt-235334379029445062" target="_blank">Zazzle T-shirt design</a>. 
+                                    It was a blast to see this design go viral during the Holidays!</p>
+                            </div>
+                        </li>
+                        <li data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
+                            <a href="nft.html"><img src="assets/images/robot.png" alt="NFT"></a>
+                            <div class="text">
+                                <h4>Cardano NFT's</h4>
+                                <p style="color:#ffffff;">Cardano NFT's (CNFT) are brand new on the Cardano (ADA) Blockchain! <a href="http://www.guert.com/nft.html" >Learn more</a></p>
+                            </div>
+                        </li>
+<li data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
+                            <div class="text">
+                                
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+
+    
+
+    <div class="right-image-decor"></div>
+    <!-- ***** Sound Design Starts ***** -->
+    <section class="section" id="sound">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="center-heading" style="padding-top:100px;">
+                        <h2>SOUND <em>DESIGN</em></h2>
+                        <p style="color:#ffffff;">Sound design &amp; soundtrack instrumental music for people &amp; dogs.</p>
+                    </div>
+                </div>
+                <div class="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big"
+                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <div class="owl-carousel owl-theme">
+                        <div class="item service-item">
+                            <div class="author">
+                                <iframe src="https://embed.music.apple.com/us/album/hertas/1378810543?i=1378810547&amp;app=music&amp;itsct=music_box&amp;itscg=30200&amp;ls=1" height="150px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
+
+                            </div>
+                        </div>
+                        <div class="item service-item">
+                            <div class="author">
+                                <iframe src="https://embed.music.apple.com/us/album/wingspan-angel/1378810543?i=1378810546&amp;app=music&amp;itsct=music_box&amp;itscg=30200&amp;ls=1" height="150px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
+
+                            </div>
+                        </div>
+                        <div class="item service-item">
+                            <div class="author">
+                                <iframe src="https://embed.music.apple.com/us/album/astromechs/1378810543?i=1378810948&amp;app=music&amp;itsct=music_box&amp;itscg=30200&amp;ls=1" height="150px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
+
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Sound Design Ends ***** -->
+
+
+    <!-- ***** Footer Start ***** -->
+    <footer id="about-guert">
+        <div class="container">
+            <div class="footer-content">
+                <div class="row">
+                    <!-- ***** Contact Form Start ***** -->
+                    <div class="col-lg-6 col-md-12 col-sm-12">
+                        <div>
+                            <img src="assets/images/guert-business.png" alt="Guert Business" style="max-width:500px;" />
+                        </div>
+                    </div>
+                    <!-- ***** Contact Form End ***** -->
+                    <div class="right-content col-lg-6 col-md-12 col-sm-12">
+                        <h2>ABOUT <em>GUERT</em></h2>
+                        <p>Guert has been involved in designing &amp; building interactive <a href="https://www.linkedin.com/in/guert/">websites</a> since the beginning of the Commercial Internet Age. He moved to Silicon Valley in 1997 from Arizona, where he trained as a media designer &amp; percussionist. Guert understands &amp; has lived Internet history and understands where it is going.</p>
+                        <ul class="social">
+                            <li><a href="https://www.facebook.com/wowiebot"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/guert"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://linkedin.com/in/guert"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="sub-footer">
+                        <p>&copy; GUERT 2021</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="assets/js/jquery-2.1.0.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="assets/js/popper.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/scrollreveal.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/imgfix.min.js"></script>
+
+    <!-- Global Init -->
+    <script src="assets/js/custom.js"></script>
+
+</body>
+</html>
