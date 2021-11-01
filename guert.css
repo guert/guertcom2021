@@ -14,11 +14,30 @@ body {
   margin-right: auto;
   max-width: 70%;
 }
+.title {
+  color: #ffffff;
+  padding-top:60px;    
+  padding-bottom: 40px;
+  text-align: center;
+}
+.text {
+  color: #ffffff;
+  padding-top:60px;    
+  padding-bottom: 40px;
+  text-align: center;
+ 
+}
 #footer {
   display: block;
   margin-left: auto;
   margin-right: auto;
   max-width: 65%;
+}
+.content {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
 }
 .nav {
   list-style-type: none;
@@ -34,26 +53,26 @@ body {
 a:link {
   color: #ffffff;
   text-decoration: none;
-  font-size:1.5em; 
-  font-weight:lighter;    
+  font-size: 1.5em;
+  font-weight: lighter;
 }
 a:visited {
   color: #ffffff;
   text-decoration: none;
-  font-size:1.5em; 
-  font-weight:lighter;      
+  font-size: 1.5em;
+  font-weight: lighter;
 }
 a:hover {
   color: #0289ba;
   text-decoration: none;
-  font-size:1.5em;
-  font-weight:lighter;      
+  font-size: 1.5em;
+  font-weight: lighter;
 }
 a:active {
   color: #ffffff;
   text-decoration: none;
-  font-size:1.5em;
-  font-weight:lighter;      
+  font-size: 1.5em;
+  font-weight: lighter;
 }
 @media screen and (max-width: 720px) {
   #guert {
@@ -74,6 +93,18 @@ a:active {
     margin-right: auto;
     max-width: 80%;
   }
+  .content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+  }
+    .text {
+  color: #ffffff;
+  padding-top:60px;    
+  padding-bottom: 40px;
+  text-align: center;   
+}
   .nav {
     list-style-type: none;
     text-align: center;
@@ -88,26 +119,26 @@ a:active {
   a:link {
     color: #ffffff;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;      
+    font-size: 1.5em;
+    font-weight: lighter;
   }
   a:visited {
     color: #ffffff;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;       
+    font-size: 1.5em;
+    font-weight: lighter;
   }
   a:hover {
     color: #0289ba;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;       
+    font-size: 1.5em;
+    font-weight: lighter;
   }
   a:active {
     color: #ffffff;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;       
+    font-size: 1.5em;
+    font-weight: lighter;
   }
 }
 @media screen and (max-width: 380px) {
@@ -129,6 +160,20 @@ a:active {
     margin-right: auto;
     max-width: 100%;
   }
+  .content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+  }
+    .text {
+  color: #ffffff;
+  padding-top:60px;    
+  padding-bottom: 40px;
+  text-align: center;
+  padding-left:40px;
+        padding-right:40px;
+}
   .nav {
     list-style-type: none;
     text-align: center;
@@ -143,29 +188,34 @@ a:active {
   a:link {
     color: #ffffff;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;       
+    font-size: 1.5em;
+    font-weight: lighter;
   }
   a:visited {
     color: #ffffff;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;       
+    font-size: 1.5em;
+    font-weight: lighter;
   }
   a:hover {
     color: #0289ba;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;       
+    font-size: 1.5em;
+    font-weight: lighter;
   }
   a:active {
     color: #ffffff;
     text-decoration: none;
-    font-size:1.5em; 
-    font-weight:lighter;       
+    font-size: 1.5em;
+    font-weight: lighter;
   }
 }
 @font-face {
-	font-family: Nexa;
-	src: url("../fonts/Nexa-Light.ttf") format("truetype");
+  font-family: Nexa;
+  src: url("../fonts/Nexa-Light.ttf") format("truetype");
+}
+.glow {
+  -webkit-box-shadow: 0px 0px 50px 14px rgba(2, 137, 186, 0.9);
+  -moz-box-shadow: 0px 0px 50px 14px rgba(2, 137, 186, 0.9);
+  box-shadow: 0px 0px 50px 14px rgba(2, 137, 186, 0.9);
 }
